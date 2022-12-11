@@ -15,7 +15,7 @@
 	
 	<header>
 		<nav>
-		<h1>Taba's Desk/h1>
+		<h1>Taba's Desk</h1>
 			<ul id="navli">
 				<li><a class="homered" href="eloginwel.php?id=<?php echo $id?>"">HOME</a></li>
 				<li><a class="homeblack" href="myprofile.php?id=<?php echo $id?>"">My Profile</a></li>
